@@ -1,0 +1,8 @@
+# О внесении изменений в некоторые законодательные акты Сахалинской области
+Document type: Закон
+Number: 2-ЗО
+Date signed: 2019-01-21
+Publication date: 2019-01-29
+Publication number: 6500201901290001
+Signing body: Сахалинская область
+Official publication page: http://publication.pravo.gov.ru/Document/View/6500201901290001
