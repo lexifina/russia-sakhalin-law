@@ -1,0 +1,77 @@
+{
+ "parts": {
+  "30-zakony-2016.json": {
+   "acts": [
+    "zakony-2016"
+   ],
+   "sha256": "060a4fca1c09fd3179bcfcb987e63357f4b2ae4dd109581941a8a71ae2f9d1d4"
+  },
+  "30-zakony-2017.json": {
+   "acts": [
+    "zakony-2017"
+   ],
+   "sha256": "2ad297704c54faf8e2eb86331075a7c111e4b277ba54a06496c0256ec93dba0f"
+  },
+  "30-zakony-2018.json": {
+   "acts": [
+    "zakony-2018"
+   ],
+   "sha256": "4db42feee6130854171f13d8eb86bdb799a22a1f5a46103e8078e674f8f92fb5"
+  },
+  "30-zakony-2019.json": {
+   "acts": [
+    "zakony-2019"
+   ],
+   "sha256": "09e4e5b37a7c037718e8c7d078df0c4068267b43095d91e76cc83886fd798fbc"
+  },
+  "30-zakony-2020.json": {
+   "acts": [
+    "zakony-2020"
+   ],
+   "sha256": "2b827a0f0425c87d2ad9eae6531db2df000775b57b46fa23fc1c4b905013b764"
+  },
+  "30-zakony-2021.json": {
+   "acts": [
+    "zakony-2021"
+   ],
+   "sha256": "4c08a4d1213458074e26dd67349bb94a0e88e8ecf86e8b219ebe6af8a6f7b466"
+  },
+  "30-zakony-2022.json": {
+   "acts": [
+    "zakony-2022"
+   ],
+   "sha256": "4a559b251ec1247338e827ab8db0489a9d61c5cc5a0dbd8416cf4330b57b6bf7"
+  },
+  "30-zakony-2023.json": {
+   "acts": [
+    "zakony-2023"
+   ],
+   "sha256": "f73c97606afce933e85ec3e30778e31d3837f174e2aba37f59a58fd53bd57e92"
+  },
+  "30-zakony-2024.json": {
+   "acts": [
+    "zakony-2024"
+   ],
+   "sha256": "135457816b823adeefdaacc28532a1ec8cb6849901f970024e07bf8a937c40b9"
+  },
+  "30-zakony-2025.json": {
+   "acts": [
+    "zakony-2025"
+   ],
+   "sha256": "88dfec13f426c0bfada71deefd002b6e44efd4a1b0a9234b3aa9cc8884be1131"
+  },
+  "30-zakony-2026.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "cbbea4bcfecaf22f8f77b4e43361cf8dc46aac157503ebf2a6db95191653719b"
+  },
+  "95-watch-20261124-001.json": {
+   "acts": [
+    "zakony-2026"
+   ],
+   "sha256": "9ba4ebabf134437dec197f985074e0458e8318d4a2ec9017a4e96580e20a68e4"
+  }
+ },
+ "schema": 1
+}
