@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:19:36Z",
+ "generated": "2026-11-27T06:11:37Z",
  "latest": {
   "pravo-sakhalin|russia/sakhalin/acts": {
    "attempt": 1,
@@ -13,36 +13,25 @@
    },
    "census": {
     "checked": 1374,
-    "current": 1368,
+    "current": 1374,
     "gone": 0,
-    "held": 1368,
-    "newest_in_repo": "2026-11-10",
-    "pending": 6,
-    "repo": 1368,
+    "held": 1374,
+    "newest_in_repo": "2026-11-25",
+    "pending": 0,
+    "repo": 1374,
     "source_in_scope": 1374
    },
-   "check_id": "ru-pravo-sakhalin-20261126T055635Z",
-   "commits": {
-    "count": 2,
-    "from": "5c2b12f2e92b83883587ce1cdbb1e2c76d8a1e4a",
-    "to": "ae819ef74273519da657af3b849a80d38ae6ca1f"
-   },
+   "check_id": "ru-pravo-sakhalin-20261127T055121Z",
+   "commits": null,
    "corpus": "russia/sakhalin/acts",
    "error": null,
-   "finished": "2026-11-26T05:57:30Z",
+   "finished": "2026-11-27T05:51:54Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region65: 1374 law-type documents listed (every page read); 1368 held here; 6 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region65: 1374 law-type documents listed (every page read); 1374 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "6500202611250001",
-     "6500202611250002",
-     "6500202611250003",
-     "6500202611250004",
-     "6500202611250005",
-     "6500202611250006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -50,33 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "6500202611250001",
-     "6500202611250002",
-     "6500202611250003",
-     "6500202611250004",
-     "6500202611250005",
-     "6500202611250006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1374 law-type documents in block region65; newest published 2026-11-25",
    "source": "pravo-sakhalin",
-   "started": "2026-11-26T05:56:35Z",
+   "started": "2026-11-27T05:51:21Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261126-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
