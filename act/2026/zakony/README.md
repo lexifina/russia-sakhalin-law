@@ -1,6 +1,6 @@
 # Sakhalin Oblast: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 25 versions, from 2026-02-09 (latest in force: 2026-11-25) · <http://publication.pravo.gov.ru/documents/block/region65>
+Законы 2026 · 26 versions, from 2026-02-09 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region65>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,6 +15,7 @@
 | Закон № 106-ЗО | [106-zo.md](106-zo.md) | 1 | 2026-11-25 |
 | Закон № 107-ЗО | [107-zo.md](107-zo.md) | 1 | 2026-11-25 |
 | Закон № 108-ЗО | [108-zo.md](108-zo.md) | 1 | 2026-11-25 |
+| Закон № 109-ЗО | [109-zo.md](109-zo.md) | 1 | 2026-11-27 |
 | Закон № 11-ЗО | [11-zo.md](11-zo.md) | 1 | 2026-03-23 |
 | Закон № 12-ЗО | [12-zo.md](12-zo.md) | 1 | 2026-03-23 |
 | Закон № 13-ЗО | [13-zo.md](13-zo.md) | 1 | 2026-03-23 |
