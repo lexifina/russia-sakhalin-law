@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:11:37Z",
+ "generated": "2026-11-28T06:25:56Z",
  "latest": {
   "pravo-sakhalin|russia/sakhalin/acts": {
    "attempt": 1,
@@ -12,26 +12,32 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1374,
+    "checked": 1375,
     "current": 1374,
     "gone": 0,
     "held": 1374,
     "newest_in_repo": "2026-11-25",
-    "pending": 0,
+    "pending": 1,
     "repo": 1374,
-    "source_in_scope": 1374
+    "source_in_scope": 1375
    },
-   "check_id": "ru-pravo-sakhalin-20261127T055121Z",
-   "commits": null,
+   "check_id": "ru-pravo-sakhalin-20261128T060134Z",
+   "commits": {
+    "count": 2,
+    "from": "99b299de14e3f09a27c4e4f02777f44d19880947",
+    "to": "eba34a9db0bf089b370b8fd9933839b5a0b95d8b"
+   },
    "corpus": "russia/sakhalin/acts",
    "error": null,
-   "finished": "2026-11-27T05:51:54Z",
+   "finished": "2026-11-28T06:02:24Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region65: 1374 law-type documents listed (every page read); 1374 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region65: 1375 law-type documents listed (every page read); 1374 held here; 1 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "6500202611270002"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +45,28 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "6500202611270002"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1374 law-type documents in block region65; newest published 2026-11-25",
+   "snapshot": "1375 law-type documents in block region65; newest published 2026-11-27",
    "source": "pravo-sakhalin",
-   "started": "2026-11-27T05:51:21Z",
+   "started": "2026-11-28T06:01:34Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +75,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 11,
-    "versions_checked": 444,
+    "versions_checked": 445,
     "versions_differ": 0
    }
   }
